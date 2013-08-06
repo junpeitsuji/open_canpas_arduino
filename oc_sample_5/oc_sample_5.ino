@@ -1,5 +1,5 @@
 // oc_sample_5.ino
-// 一秒ごとにシリアルモニターに test と書き込み続けるサンプルプログラム
+// 両側に取り付けた赤外線測距センサーに反応して行動する二輪ロボットのプログラム
 
 int pwm_a = 3;   //PWM control for motor outputs 1 and 2 is on digital pin 3
 int pwm_b = 11;  //PWM control for motor outputs 3 and 4 is on digital pin 11
